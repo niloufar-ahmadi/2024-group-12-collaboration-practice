@@ -19,17 +19,17 @@
 
 | Day | How | The topic of discussion |
 | --- | :-: | ----------------------- |
-|     |     |                         |
+|    Fridays    |    Microsoft Teamms    |         Initial Meeing          |
 
 ## Communication Channels
 
 how often will we get in touch on each channel, and what we will discuss there:
 
-- **Issues**:
-- **Pull Requests**:
-- **GitHub Discussions**
-- **Slack/Discord**:
-- **Video Calls**:
+- **Issues**: Daily
+- **Pull Requests**: Always
+- **GitHub Discussions**: Never 
+- **Slack/Discord**: Daily
+- **Video Calls**: 2 - 3 times / week
 
 ---
 
@@ -39,11 +39,11 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 | Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
 | ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
-| _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
+| _Niloufar Ahmadi_ | 09am - 05pm | 09am - 05pm |  09am - 05pm  | 09am - 05pm  | 09am - 11pm | 09am - 05pm  | 09am - 05pm |
 
 ### How many hours everyone has per day:
 
-- name: _5h_; extra comments?
+- Niloufar Ahmadi: _3h_; All days - more available on Fridays
 - name: _6h_;
 - name: _5h_;
 - name: _4h_;
