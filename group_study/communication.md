@@ -17,9 +17,10 @@
 
 ## Communication Schedule
 
-| Day | How | The topic of discussion |
-| --- | :-: | ----------------------- |
-|     |     |                         |
+| Day      |       How       | The topic of discussion |
+| -------- | :-------------: | ----------------------- |
+| Friday   | Microsoft Teams | Initial Meeting         |
+| saturday | Microsoft Teams | Work on project         |
 
 ## Communication Channels
 
@@ -37,13 +38,13 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
-| ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
-| _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
+| Day              | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
+| ---------------- | :----: | :-----: | :-------: | :------: | :----: | :------: | :----: |
+| _Nilofar Ahmadi_ | 9 - 17 | 9 - 17  |  9 - 17   | 10 - 23  | 9 - 17 |  9 - 17  | 9 - 17 |
 
 ### How many hours everyone has per day:
 
-- name: _5h_; extra comments?
+- Niloufar Ahmadi: _3-4 h_; More available on Fridays.
 - name: _6h_;
 - name: _5h_;
 - name: _4h_;
