@@ -20,17 +20,17 @@
 | Day      |       How       | The topic of discussion |
 | -------- | :-------------: | ----------------------- |
 | Friday   | Microsoft Teams | Initial Meeting         |
-| saturday | Microsoft Teams | Work on project         |
+| Saturday | Microsoft Teams | Work on project         |
 
 ## Communication Channels
 
 how often will we get in touch on each channel, and what we will discuss there:
 
-- **Issues**:
-- **Pull Requests**:
-- **GitHub Discussions**
-- **Slack/Discord**:
-- **Video Calls**:
+- **Issues**: Daily
+- **Pull Requests**: Always
+- **GitHub Discussions**: Never
+- **Slack/Discord**: Daily
+- **Video Calls**: 2 - 3 times / week
 
 ---
 
