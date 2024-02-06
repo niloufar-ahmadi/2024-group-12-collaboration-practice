@@ -15,6 +15,8 @@ Some boundaries around our project.
 
 ## Internal: Involuntary
 
+No prior expience using Github.
+
 <!--
   constraints that come from within your team, and you have no control over. they may include:
   - each of your individual skill levels
