@@ -11,41 +11,20 @@
 
 ## Group Rules
 
-### Communication Guidelines:
-
-Establish clear expectations for communication channels, response times, and the use of collaboration tools to ensure efficient and effective information flow.
-
-### Meeting Etiquette:
-
-Define protocols for virtual meetings, including punctuality, participation, and the use of video or audio. Encourage active engagement and discourage multitasking.
-
-### Project Updates:
-
-Implement regular progress updates to keep everyone informed about the project's status. This can be through written reports, shared documents, or brief meetings.
-
-### Task Assignment:
-
-Clearly define roles and responsibilities within the group. Assign tasks based on individual strengths and expertise, fostering a sense of accountability.
-
-### Availability:
-
-Establish core working hours when team members are expected to be available for collaboration. Respect each other's time zones and personal commitments.
-
-### Documentation Standards:
-
-Emphasize the importance of documenting processes, decisions, and key information. Maintain a centralized repository for easy access to shared resources.
-
-### Feedback Culture:
-
-Encourage constructive feedback and create a supportive environment for team members to share ideas, ask questions, and provide suggestions for improvement.
-
-### Tech Literacy:
-
-Ensure that all team members are familiar with the technology and tools being used for remote collaboration. Provide training if necessary.
-
-### Deadline Adherence:
-
-Set realistic deadlines and emphasize the importance of meeting them. Foster a culture of accountability and prompt completion of assigned tasks.
+- Use designated communication channels (Slack, Signal, Whatsapp) for project-related discussions.
+- Respond to messages within a specified timeframe to maintain timely communication.
+- Respect time zone differences and personal commitments when scheduling meetings or expecting responses.
+- Join virtual meetings on time, and inform the group if there are delays.
+- Avoid multitasking during virtual meetings to ensure full engagement.
+- Clearly communicate roles and responsibilities for each team member.
+- Assign tasks based on individual strengths and expertise.
+- Foster a sense of accountability by regularly checking in on task progress.
+- Maintain a centralized repository for easy access to shared resources and documentation.
+- Foster a supportive environment for sharing ideas, asking questions, and suggesting improvements.
+- Ensure all team members are familiar with and proficient in using the designated technology and collaboration tools.
+- Provide training sessions as needed to enhance tech literacy within the team.
+- Emphasize the importance of meeting deadlines to ensure the overall success of the project.
+- Cultivate a culture of accountability, with prompt completion of assigned tasks.
 
 <!-- any general rules you'd like to set for your group? -->
 
