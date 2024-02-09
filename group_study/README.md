@@ -4,30 +4,44 @@
 
 ## Group norms summary
 
-We establish a set of group norms to guide our collaboration and ensure a productive working environment. These norms will help us effectively utilize GitHub's features, communicate efficiently, and work together towards achieving our project goals.
+The group norms aim to create a smooth collaboration in our remote team. We stress clear communication using defined channels and response times. Virtual meetings have set protocols for punctuality and active engagement. Regular updates on project progress keep everyone informed. Tasks are assigned based on strengths, ensuring accountability. Working hours respect time zones. We prioritize documentation and a centralized system for easy access. A feedback culture encourages constructive communication, and tech literacy is ensured through training. Meeting deadlines is crucial, fostering a sense of accountability for prompt task completion. Together, these norms promote a straightforward and efficient remote working environment.
 
 <!-- group norms list -->
 
 ## Group norms list
 
-1. GitHub proficiency: We will collectively work towards developing proficiency in using GitHub for version control, issue tracking, and collaboration.
+### Communication Guidelines:
 
-2. Clear communication: We will prioritize clear and concise communication within the team, using GitHub's comment and discussion features to communicate project-related information effectively.
+Establish clear expectations for communication channels, response times, and the use of collaboration tools to ensure efficient and effective information flow.
 
-3. Regular updates: Each team member will commit to providing regular updates on their progress, ensuring transparency and keeping the team informed.
+### Meeting Etiquette:
 
-4. Branch management: We will follow a consistent branch management strategy, ensuring that each team member creates and works on their own branches to avoid conflicts.
+Define protocols for virtual meetings, including punctuality, participation, and the use of video or audio. Encourage active engagement and discourage multitasking.
 
-5. Code reviews: We will actively participate in code reviews, providing constructive feedback and suggestions to improve the quality of our code.
+### Project Updates:
 
-6. Collaboration and knowledge sharing: We will foster a collaborative environment, actively sharing knowledge and resources, and supporting each other's learning and growth throughout the project.
+Implement regular progress updates to keep everyone informed about the project's status. This can be through written reports, shared documents, or brief meetings.
 
-7. Respect and inclusivity: We will treat all team members with respect and professionalism, valuing their contributions and creating an inclusive environment where everyone feels comfortable expressing their ideas and opinions.
+### Task Assignment:
 
-8. Timeliness and accountability: Each team member will commit to meeting deadlines, communicating in advance if unable to meet them, and taking responsibility for their assigned tasks and deliverables.
+Clearly define roles and responsibilities within the group. Assign tasks based on individual strengths and expertise, fostering a sense of accountability.
 
-9. Conflict resolution: If conflicts or disagreements arise, we will address them constructively, seeking resolutions that benefit the team as a whole.
+### Availability:
 
-10. Continuous learning: We will embrace a learning mindset, actively seeking opportunities to learn and improve individually and as a team, leveraging the resources and learning materials available on GitHub and other platforms.
+Establish core working hours when team members are expected to be available for collaboration. Respect each other's time zones and personal commitments.
 
-11. Celebrate achievements: We will celebrate and acknowledge the achievements and milestones we reach as a team, fostering motivation and a positive team spirit.
+### Documentation Standards:
+
+Emphasize the importance of documenting processes, decisions, and key information. Maintain a centralized repository for easy access to shared resources.
+
+### Feedback Culture:
+
+Encourage constructive feedback and create a supportive environment for team members to share ideas, ask questions, and provide suggestions for improvement.
+
+### Tech Literacy:
+
+Ensure that all team members are familiar with the technology and tools being used for remote collaboration. Provide training if necessary.
+
+### Deadline Adherence:
+
+Set realistic deadlines and emphasize the importance of meeting them. Foster a culture of accountability and prompt completion of assigned tasks.
