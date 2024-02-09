@@ -13,7 +13,11 @@
 
 ## Individual
 
-Nasrin Ahmadi: Improve proficiency in using GitHub for version control, issue tracking, and collaboration.
+### Nasrin Ahmadi:
+
+Improve proficiency in using GitHub for version control, issue tracking, and collaboration.
 Sharpen problem-solving and critical thinking skills through active participation in project discussions and decision-making processes.
 
-Niloufar Ahmadi: Improve proficiency in using GitHub for version control, issue tracking, and collaboration.
+### Niloufar Ahmadi:
+
+Improve proficiency in using GitHub for version control, issue tracking, and collaboration.
